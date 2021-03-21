@@ -1,0 +1,52 @@
+br/com/fiap/arremate/msproduto/dtos/CategoriaDTO.java
+ br.com.fiap.arremate.msproduto.dtos.CategoriaDTO
+br/com/fiap/arremate/msproduto/services/impl/MarcaServiceImpl.java
+ br.com.fiap.arremate.msproduto.services.impl.MarcaServiceImpl
+br/com/fiap/arremate/msproduto/controllers/ProdutoController.java
+ br.com.fiap.arremate.msproduto.controllers.ProdutoController
+br/com/fiap/arremate/msproduto/dtos/ProdutoDTO.java
+ br.com.fiap.arremate.msproduto.dtos.ProdutoDTO
+br/com/fiap/arremate/msproduto/services/MarcaService.java
+ br.com.fiap.arremate.msproduto.services.MarcaService
+br/com/fiap/arremate/msproduto/entities/Modelo.java
+ br.com.fiap.arremate.msproduto.entities.Modelo
+br/com/fiap/arremate/msproduto/services/impl/ProdutoServiceImpl.java
+ br.com.fiap.arremate.msproduto.services.impl.ProdutoServiceImpl
+br/com/fiap/arremate/msproduto/dtos/CadastroProdutoDTO.java
+ br.com.fiap.arremate.msproduto.dtos.CadastroProdutoDTO
+br/com/fiap/arremate/msproduto/dtos/ModeloDTO.java
+ br.com.fiap.arremate.msproduto.dtos.ModeloDTO
+br/com/fiap/arremate/msproduto/controllers/CategoriaController.java
+ br.com.fiap.arremate.msproduto.controllers.CategoriaController
+br/com/fiap/arremate/msproduto/repositories/CategoriaRepository.java
+ br.com.fiap.arremate.msproduto.repositories.CategoriaRepository
+br/com/fiap/arremate/msproduto/entities/Marca.java
+ br.com.fiap.arremate.msproduto.entities.Marca
+br/com/fiap/arremate/msproduto/MsProdutoApplication.java
+ br.com.fiap.arremate.msproduto.MsProdutoApplication
+br/com/fiap/arremate/msproduto/repositories/ModeloRepository.java
+ br.com.fiap.arremate.msproduto.repositories.ModeloRepository
+br/com/fiap/arremate/msproduto/services/ProdutoService.java
+ br.com.fiap.arremate.msproduto.services.ProdutoService
+br/com/fiap/arremate/msproduto/controllers/MarcaController.java
+ br.com.fiap.arremate.msproduto.controllers.MarcaController
+br/com/fiap/arremate/msproduto/repositories/ProdutoRepository.java
+ br.com.fiap.arremate.msproduto.repositories.ProdutoRepository
+br/com/fiap/arremate/msproduto/services/impl/ModeloServiceImpl.java
+ br.com.fiap.arremate.msproduto.services.impl.ModeloServiceImpl
+br/com/fiap/arremate/msproduto/services/ModeloService.java
+ br.com.fiap.arremate.msproduto.services.ModeloService
+br/com/fiap/arremate/msproduto/entities/Produto.java
+ br.com.fiap.arremate.msproduto.entities.Produto
+br/com/fiap/arremate/msproduto/dtos/MarcaDTO.java
+ br.com.fiap.arremate.msproduto.dtos.MarcaDTO
+br/com/fiap/arremate/msproduto/entities/Categoria.java
+ br.com.fiap.arremate.msproduto.entities.Categoria
+br/com/fiap/arremate/msproduto/services/impl/CategoriaServiceImpl.java
+ br.com.fiap.arremate.msproduto.services.impl.CategoriaServiceImpl
+br/com/fiap/arremate/msproduto/repositories/MarcaRepository.java
+ br.com.fiap.arremate.msproduto.repositories.MarcaRepository
+br/com/fiap/arremate/msproduto/services/CategoriaService.java
+ br.com.fiap.arremate.msproduto.services.CategoriaService
+br/com/fiap/arremate/msproduto/config/SwaggerConfig.java
+ br.com.fiap.arremate.msproduto.config.SwaggerConfig
