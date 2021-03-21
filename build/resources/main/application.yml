@@ -10,3 +10,13 @@ spring:
     console:
       enabled: true
       path: /h2-console
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://ec2-54-145-102-149.compute-1.amazonaws.com:5432/d1jpgafv1ja9ut
+#    username: pvdymcfqxszour
+#    password: a9a04acaa530788ae878bfbefdad80f62fe7a587389c983f771793091c5c9c57
+#    driver-class-name: org.postgresql.Driver
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    database-platform: org.hibernate.dialect.PostgreSQLDialect

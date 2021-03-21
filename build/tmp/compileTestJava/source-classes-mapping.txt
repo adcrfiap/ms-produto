@@ -1,0 +1,2 @@
+br/com/fiap/arremate/msproduto/MsProdutoApplicationTests.java
+ br.com.fiap.arremate.msproduto.MsProdutoApplicationTests

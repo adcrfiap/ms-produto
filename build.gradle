@@ -19,8 +19,8 @@ dependencies {
 	implementation 'org.modelmapper:modelmapper:2.3.9'
 	implementation 'io.springfox:springfox-boot-starter:3.0.0'
 
-//	runtimeOnly 'com.h2database:h2'
-	runtimeOnly 'org.postgresql:postgresql'
+	runtimeOnly 'com.h2database:h2'
+//	runtimeOnly 'org.postgresql:postgresql'
 
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
